@@ -18,7 +18,7 @@ import ED from '../../images/ED.png'
             <div className={styles.content_wrapper}>
                     <div className={styles.heading_wrapper}>
                         <h2 className={styles.main_heading}>What we do</h2>
-                        <p className={styles.main_para}>Bazaar’s suite of digital products empower merchants to simplify and grow their businesses.</p>
+                        <p className={styles.main_para}>Easy Dukaan’s suite of digital products empower merchants to simplify and grow their businesses.</p>
                     </div>
                     <div className={styles.content}>
                         <div className={styles.content_image}>
